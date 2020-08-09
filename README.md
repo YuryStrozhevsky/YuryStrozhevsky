@@ -15,7 +15,7 @@ Was born in 1976, professional developer since 1998. Working in on secirity-rela
 - Free ASN.1:2008 compliance test suite ([RUS](https://habr.com/ru/post/152907/), [GitHub](https://github.com/YuryStrozhevsky/ASN1-2008-free-test-suite))
 - Words about CAdES formats ([RUS](https://habr.com/ru/post/214295/))  
 
-### I am the author following projects
+### I am the author for following projects
 
 - [CryptoARM](https://trusted.ru/) Famous crypto-related software using in Russia. Made first versions from v0 to v2.5. Since 2004 have no relations to the product
 - [PKIjs](https://github.com/PeculiarVentures/PKI.js) Pure JavaScript library implementing the formats that are used in PKI applications, 800+ stars on GitHub
