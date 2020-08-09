@@ -24,6 +24,7 @@ Was born in 1976, professional developer since 1998. Working in on secirity-rela
 - [ByteStream.js](https://github.com/PeculiarVentures/ByteStream.js) All functions related to bytes/bits manipulations
 - [C-plus-plus-ASN.1-2008-coder-decoder](https://github.com/YuryStrozhevsky/C-plus-plus-ASN.1-2008-coder-decoder) Initial C++ version of ASN1.js
 - [CTjs](https://github.com/YuryStrozhevsky/CTjs) Full set of classes necessary to work with any kind of Certificate Transparency log
+- [Font.js](https://github.com/PeculiarVentures/Font.js) Library helping parse/encode and manipulate TrueType font files. Working on making it OpenType compartible
 - PAdES-related library (private repository at the moment). Everything about PDF parsing/making/signing/verification etc. Already working on [hancock.ink](https://hancock.ink/)
 
 ### Mics
