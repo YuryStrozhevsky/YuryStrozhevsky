@@ -1,5 +1,8 @@
 # Yury Strozhevsky
 
+## You Can Hire Me
+At the moment I am in the process of looking for new contracts we a freelancer. Contact me for a details!
+
 ### Bio
 Was born in 1976, professional developer since 1998. Working in on security-related projects since 2003. Currently work as a freelancer (remote jobs only).
 
@@ -18,8 +21,8 @@ Was born in 1976, professional developer since 1998. Working in on security-rela
 ### I am the author for following projects
 
 - [CryptoARM](https://trusted.ru/) Famous crypto-related software using in Russia. Made first versions from v0 to v2.5. Since 2004 have no relations to the product
-- [PKIjs](https://github.com/PeculiarVentures/PKI.js) Pure JavaScript library implementing the formats that are used in PKI applications, 800+ stars on GitHub
-- [ASN1.js](https://github.com/PeculiarVentures/ASN1.js) Pure JavaScript library implementing a full ASN.1 BER decoder and encoder, 150+ stars on GitHub
+- [PKIjs](https://github.com/PeculiarVentures/PKI.js) Pure JavaScript library implementing the formats that are used in PKI applications, 900+ stars on GitHub
+- [ASN1.js](https://github.com/PeculiarVentures/ASN1.js) Pure JavaScript library implementing a full ASN.1 BER decoder and encoder, 190+ stars on GitHub
 - [CAdES.js](https://github.com/PeculiarVentures/CAdES.js) Implementation of CAdES (CMS Advanced Electronic Signatures)in pure Javascript 
 - [ByteStream.js](https://github.com/PeculiarVentures/ByteStream.js) All functions related to bytes/bits manipulations
 - [C-plus-plus-ASN.1-2008-coder-decoder](https://github.com/YuryStrozhevsky/C-plus-plus-ASN.1-2008-coder-decoder) Initial C++ version of ASN1.js
