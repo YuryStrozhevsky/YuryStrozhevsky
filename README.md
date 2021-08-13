@@ -1,8 +1,5 @@
 # Yury Strozhevsky
 
-## You Can Hire Me
-At the moment I am in the process of looking for new contracts we a freelancer. Contact me for a details!
-
 ### Bio
 Was born in 1976, professional developer since 1998. Working in on security-related projects since 2003. Currently work as a freelancer (remote jobs only).
 
@@ -32,6 +29,5 @@ Was born in 1976, professional developer since 1998. Working in on security-rela
 
 ### Mics
 
-- 🔭 I’m currently working on PAdES-related library having functionality to parse/create/sign/verify any PDFs (fully-featured PDF processing on any side - server or client)
 - 👯 I’m looking to collaborate on any great PKI/security related projects
 - 📫 How to reach me: [**www.strozhevsky.com**](https://strozhevsky.com/)
