@@ -10,7 +10,7 @@ Was born in 1976, professional developer since 1998. Working in on security-rela
 - PKI/ASN.1 ninja
 
 ### Articles
-- Using of Crypto API([RUS](http://rsdn.org/article/crypto/usingcryptoapi.xml))
+- Using of Crypto API ([RUS](http://rsdn.org/article/crypto/usingcryptoapi.xml))
 - ASN.1 By Simple Words ([RUS](https://habr.com/ru/post/150757/), [ENG](https://www.strozhevsky.com/free_docs/asn1_by_simple_words.pdf)),
 - Free ASN.1:2008 compliance test suite ([RUS](https://habr.com/ru/post/152907/), [GitHub](https://github.com/YuryStrozhevsky/ASN1-2008-free-test-suite))
 - Words about CAdES formats ([RUS](https://habr.com/ru/post/214295/))  
