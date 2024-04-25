@@ -15,7 +15,7 @@ Was born in 1976, professional developer since 1998. Working in on security-rela
 - Free ASN.1:2008 compliance test suite ([RUS](https://habr.com/ru/post/152907/), [GitHub](https://github.com/YuryStrozhevsky/ASN1-2008-free-test-suite))
 - Words about CAdES formats ([RUS](https://habr.com/ru/post/214295/))  
 - Kerberos by simple words ([RUS](https://habr.com/ru/articles/803163/))
-- All you want to know about ALC in Active Directory ([RUS](https://habr.com/ru/articles/809485/))
+- All you want to know about ACL in Active Directory ([RUS](https://habr.com/ru/articles/809485/))
 
 ### I am the author for following projects
 
