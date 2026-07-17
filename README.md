@@ -1,7 +1,7 @@
 # Yury Strozhevsky
 
 ### Skills
-- Senior C++ developer (using it since 1995, got certified by Brainbench in 2005 as "C++ Master Degree")
+- Senior C++ developer (got certified by Brainbench in 2005 as "C++ Master Degree")
 - Senior JavaScript backend developer
 - Middle C# developer
 - PKI/ASN.1 ninja
