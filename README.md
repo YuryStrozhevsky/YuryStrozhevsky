@@ -1,8 +1,5 @@
 # Yury Strozhevsky
 
-### Bio
-Was born in 1976, professional developer since 1998. Working in on security-related projects since 2003.
-
 ### Skills
 - Senior C++ developer (using it since 1995, got certified by Brainbench in 2005 as "C++ Master Degree")
 - Senior JavaScript backend developer
